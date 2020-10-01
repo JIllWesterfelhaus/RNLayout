@@ -10,26 +10,26 @@ export default class Boxes extends React.Component {
 
                 <View style={styles.box}>
                     <View style={styles.inner}>
-                        <Text>Box 1</Text>
+                        <Text>This is Box 1</Text>
                     </View>
                 </View>
 
 
                 <View style={styles.box}>
                     <View style={styles.inner}>
-                        <Text>Box 2</Text>
+                        <Text>Here is Box 2</Text>
                     </View>
                 </View>
 
                 <View style={styles.box}>
                     <View style={styles.inner}>
-                        <Text>Box 3</Text>
+                        <Text>Welcome to Box 3</Text>
                     </View>
                 </View>
 
                 <View style={styles.box}>
                     <View style={styles.inner}>
-                        <Text>Box 4</Text>
+                        <Text>Now it's Box 4</Text>
                     </View>
                 </View>
 
